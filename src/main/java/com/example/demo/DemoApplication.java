@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World!";
+		return "Hello World! This is Devops Piolot Batch 1.0";
 	}
 }
